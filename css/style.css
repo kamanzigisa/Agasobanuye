@@ -357,7 +357,7 @@ section{
 }
 .contact-container {
     background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),
-	url("image\one.jpg");
+	url("image/one.jpg");
     background-size: cover;
     background-position: center;
     color: white;
@@ -420,7 +420,7 @@ button:hover {
 /*////////////////////////////////Home/////////////////////////////////////////////////*/
 .home-container {
     background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),
-	url("image/four.jpg"); 
+	url("image\four.jpg"); 
     background-size: cover;
     background-position: center;
     height: 100vh;
